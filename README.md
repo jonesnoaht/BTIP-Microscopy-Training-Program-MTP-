@@ -1,83 +1,83 @@
 # Topics
 ## Theory
 1. Light
-   a. Frequency, wavelength, and energy
-   b. Polarity
-   c. Wave mechanics
-   d. The photoelectric effect
-   e. Absorption and emission -- Stokes shift
+   i. Frequency, wavelength, and energy
+   ii. Polarity
+   iii. Wave mechanics
+   iv. The photoelectric effect
+   v. Absorption and emission -- Stokes shift
 2. Lenses
-   a. Snell etc
-   b. Thin-lens
-   c. Manufacturing
-   d. Photon sieves
+   i. Snell etc
+   ii. Thin-lens
+   iii. Manufacturing
+   iv. Photon sieves
 3. Sensors
-   a. CMOS
-   b. APD
-   c. PMT
+   i. CMOS
+   ii. APD
+   iii. PMT
 4. Consequences
-   a. Depth of field
-   b. Airy disks
-   c. Resolution
-   e. Chromatic abberation
+   i. Depth of field
+   ii. Airy disks
+   iii. Resolution
+   v. Chromatic abberation
    f. Photo-bleaching
 ## Instrument Application
 1. Basics
-   a. Microscope anatomy
-   b. Objectives
-   c. Parameters
-   d. Metadata
+   i. Microscope anatomy
+   ii. Objectives
+   iii. Parameters
+   iv. Metadata
 2. Slides and Coverslips
-   a. Polylysine
-   b. https://www.genome.wisc.edu/pub/reprints/GEC_Slide_Coating.pdf
-   c. CC<sup>2</sup>
-   d. Soda lime
-   e. Borosilicate 1.0 / 1.5 (high-borate transmits UV)
-   f. Permanox plastic
-   g. RS
-   h. Silicone
-   i. PEN membrane glass
-   j. Cell-culture
-   k. Nuclon Delta
+   i. Polylysine
+   ii. https://www.genomv.wisiii.edu/pub/reprints/GEC_Slide_Coating.pdf
+   iii. CC<sup>2</sup>
+   iv. Soda lime
+   v. Borosilicate 1.0 / 1.5 (high-borate transmits UV)
+   vi. Permanox plastic
+   vii. RS
+   viii. Silicone
+   ix. PEN membrane glass
+   x. Cell-culture
+   xi. Nuclon Delta
 3. White-light
-   a. Bright-field
-   b. Dark-field
-   c. Phase-contrast
-   d. Differential-interference contrast
+   i. Bright-field
+   ii. Dark-field
+   iii. Phase-contrast
+   iv. Differential-interference contrast
 4. Fluorescent
-   a. Dyes
-   b. Titration
-   c. Detection
-   e. Quantification
+   i. Dyes
+   ii. Titration
+   iii. Detection
+   v. Quantification
 5. Advanced Techniques
-   a. Confocal
-   b. Light-sheet
-   c. Multi-photon
-   d. STORM
+   i. Confocal
+   ii. Light-sheet
+   iii. Multi-photon
+   iv. STORM
 ## Sample Application
 1. Immunohistochemical
-   a. Dyes
-   b. Labels
-   c. Chemistry
+   i. Dyes
+   ii. Labels
+   iii. Chemistry
 2. Immunofluorescent
-   a. Dyes
-   b. Labels
-   c. Panel design
+   i. Dyes
+   ii. Labels
+   iii. Panel design
 3. Preparation
-   a. Cryogenic
-   b. Paraffin-embedded
+   i. Cryogenic
+   ii. Paraffin-embedded
 4. Storage
 5. Efficiency
-   a. Automated tools
+   i. Automated tools
 ## Analysis
 1. ImageJ
-   a. Resources
-   b. Recording and building macros
-   c. Standardizing a pipeline
+   i. Resources
+   ii. Recording and building macros
+   iii. Standardizing a pipeline
 2. Quantitation
-   a. Masking 
-   b. Strategies for labeling objects
+   i. Masking 
+   ii. Strategies for labeling objects
 3. Presentation
-   a. Pipeline to plots
-   b. Displaying color clearly
-   c. Avoiding bias
+   i. Pipeline to plots
+   ii. Displaying color clearly
+   iii. Avoiding bias
